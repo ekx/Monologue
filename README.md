@@ -12,10 +12,10 @@ Monologue is a Unity3D script which aims to emulate text boxes with gradually re
 
 ## Instructions
 
-Add the "Monologue" script to a game object containing a "Text" and "AudioSource" component.
-Configure the settings to your liking and call the "AnimateText" function to get started.
-The "AdvanceText" function skips the animation and immediately displays the whole text.
-Once the animation has finished (or "AdvanceText" was called) "OnTextOutputFinished" triggers.
+Add the "Monologue" script to a game object containing a "Text" and "AudioSource" component.  
+Configure the settings to your liking and call the "AnimateText" function to get started.  
+The "AdvanceText" function skips the animation and immediately displays the whole text.  
+Once the animation has finished (or "AdvanceText" was called) "OnTextOutputFinished" triggers.  
 For a basic setup see the included "Example.unity" scene.
 
 ## Contributing
