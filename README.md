@@ -1,6 +1,6 @@
 # Monologue
 
-Monologue is a Unity3D script which aims to emulate text boxes with gradually revealed text and a beeping sound effect ment to resemble speech as seen in many older JRPGs and visual novels (e.g. Phoenix Wright Ace Attorney).
+Monologue is a Unity3D script which aims to emulate text boxes with gradually revealed text and a beeping sound effect meant to resemble speech as seen in many older JRPGs and visual novels (e.g. Phoenix Wright Ace Attorney).
 
 ## Screencapture
 
